@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey there! I'm Rishabh Madaan
 
-<!--
-**stackalchemy/stackalchemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 An engineering student passionate about **tech** and obsessed with **music**. I love to blend logic with creativity — turning code into beautiful, functional digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 💻 I’m deeply into **Frontend Development** and currently exploring the powers of **React**
+- 🎵 Music fuels my creativity — hence, the blend of **Code & Rhythm**
+- 🌐 I build responsive websites with **HTML, CSS, JavaScript**, and smooth animations
+- 🌟 I believe in continuous learning and growing every day
+
+---
+
+## 🚀 Skills & Tools
+```html
+Languages:     HTML, CSS, JavaScript
+Frameworks:    React (in progress)
+Tools:         Git, GitHub, VS Code
+Design:        Responsive Design, Animations, Dark/Light Mode
