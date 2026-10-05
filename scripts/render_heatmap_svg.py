@@ -39,9 +39,10 @@ def week_sunday(d: date) -> date:
 
 def build_grid(days):
     values = {date.fromisoformat(x["date"]): x["level"] for x in days}
+    counts = {date.fromisoformat(x["date"]): x["count"] for x in days}
     available = sorted(values)
     if not available:
-        return []
+        return [], counts
 
     last_sunday = week_sunday(available[-1])
     first_sunday = last_sunday - timedelta(weeks=COLS - 1)
@@ -52,7 +53,7 @@ def build_grid(days):
         for row in range(ROWS):
             d = start + timedelta(days=row)
             grid.append((col, row, d, values.get(d, 0)))
-    return grid
+    return grid, counts
 
 
 def main() -> None:
@@ -60,7 +61,7 @@ def main() -> None:
         raise SystemExit("data/contributions.json is missing. Run fetch_contributions.py first.")
 
     payload = json.loads(DATA.read_text(encoding="utf-8"))
-    grid = build_grid(payload["days"])
+    grid, counts = build_grid(payload["days"])
 
     rects = []
     for col, row, day, level in grid:
@@ -68,7 +69,7 @@ def main() -> None:
         y = TOP + row * (CELL + GAP)
         delay = (col * 7 + row) * 0.012
         fill = PALETTE[level]
-        title = f'{payload["username"]} • {day.isoformat()} • {next((x["count"] for x in payload["days"] if x["date"] == day.isoformat()), 0)} contributions'
+        title = f'{payload["username"]} • {day.isoformat()} • {counts.get(day, 0)} contributions'
         rects.append(
             f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="2" fill="{fill}">'
             f'<title>{escape(title)}</title>'
@@ -101,7 +102,7 @@ def main() -> None:
   <rect width="100%" height="100%" rx="12" fill="#0d1117"/>
   <rect x="1" y="1" width="{WIDTH-2}" height="{HEIGHT-2}" rx="11" fill="none" stroke="#30363d"/>
   <text x="{LEFT}" y="20" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" fill="#c9d1d9">stackalchemy@github:~$ ./contributions.sh</text>
-  <text x="{LEFT}" y="TOP" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#8b949e">{total} contributions in the last year</text>
+  <text x="{LEFT}" y="32" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#8b949e">{total} contributions in the last year</text>
   {''.join(rects)}
   {''.join(legend)}
   <text x="{LEFT}" y="{HEIGHT-12}" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#8b949e">{escape(footer)}</text>
