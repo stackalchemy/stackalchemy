@@ -1,5 +1,7 @@
 requests==2.32.3
 beautifulsoup4==4.12.3
+
+# Portrait-only local tools:
 pillow
 numpy
 opencv-python
