@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="316" viewBox="0 0 490 316">
+  <rect width="490" height="316" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="488" height="314" rx="11" fill="none" stroke="#30363d"/>
+  <circle cx="24" cy="24" r="6" fill="#ff7b72"/><circle cx="46" cy="24" r="6" fill="#d29922"/><circle cx="68" cy="24" r="6" fill="#3fb950"/>
+  <text x="28" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" fill="#8b949e">stackalchemy@github:~$ neofetch</text>
+  <text x="28" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15" fill="#58a6ff">Now</text><text x="118" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#c9d1d9">CSE • Full-stack developer in progress</text>
+  <line x1="28" y1="88" x2="462" y2="88" stroke="#21262d"/>
+  <text x="28" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15" fill="#58a6ff">Prev</text><text x="118" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#c9d1d9">HTML • CSS • JavaScript • React</text>
+  <line x1="28" y1="136" x2="462" y2="136" stroke="#21262d"/>
+  <text x="28" y="172" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15" fill="#58a6ff">Stack</text><text x="118" y="172" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#c9d1d9">Java • Spring • MySQL • Git • GitHub</text>
+  <line x1="28" y1="184" x2="462" y2="184" stroke="#21262d"/>
+  <text x="28" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15" fill="#58a6ff">Build</text><text x="118" y="220" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#c9d1d9">Parkash Paints • Oolkar • coding projects</text>
+  <line x1="28" y1="232" x2="462" y2="232" stroke="#21262d"/>
+  <text x="28" y="268" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15" fill="#58a6ff">Focus</text><text x="118" y="268" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#c9d1d9">Backend engineering + placements</text>
+</svg>
