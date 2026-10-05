@@ -30,12 +30,19 @@ def main() -> None:
 
     soup = BeautifulSoup(response.text, "html.parser")
     cells = soup.select(".ContributionCalendar-day[data-date][data-level]")
-
     if not cells:
         cells = soup.select("[data-date][data-level]")
-
     if not cells:
         raise RuntimeError("GitHub contribution cells were not found.")
+
+    # GitHub has used different tooltip layouts over time. Recent markup
+    # keeps counts in <tool-tip for="CELL_ID">...</tool-tip>; older markup
+    # sometimes stores the count directly in title/aria-label.
+    tooltip_by_id = {}
+    for tooltip in soup.select("tool-tip[for]"):
+        target = tooltip.get("for")
+        if target:
+            tooltip_by_id[target] = tooltip.get_text(" ", strip=True)
 
     days = []
     for cell in cells:
@@ -50,8 +57,11 @@ def main() -> None:
         except ValueError:
             continue
 
-        # GitHub has used both a title attribute and <tool-tip> markup.
         label = cell.get("title", "") or cell.get("aria-label", "")
+        if not label:
+            cell_id = cell.get("id")
+            if cell_id:
+                label = tooltip_by_id.get(cell_id, "")
         if not label:
             tooltip = cell.find("tool-tip")
             if tooltip:
@@ -63,18 +73,13 @@ def main() -> None:
             "level": max(0, min(5, level)),
         })
 
-    days.sort(key=lambda x: x["date"])
-
-    unique = {}
-    for item in days:
-        unique[item["date"]] = item
+    unique = {item["date"]: item for item in days}
     days = [unique[k] for k in sorted(unique)]
 
     contribution_days = [d for d in days if d["count"] > 0]
-
-    current_streak = 0
     by_date = {date.fromisoformat(d["date"]): d["count"] for d in days}
 
+    current_streak = 0
     if by_date:
         cursor = min(max(by_date), date.today())
         while by_date.get(cursor, 0) == 0 and cursor > min(by_date):
@@ -114,7 +119,7 @@ def main() -> None:
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(payload, indent=2), encoding="utf-8")
-    print(f"Wrote {OUT} ({len(days)} days)")
+    print(f"Wrote {OUT} ({len(days)} days, {payload['total']} contributions)")
 
 
 if __name__ == "__main__":
