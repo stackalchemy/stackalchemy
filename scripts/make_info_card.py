@@ -6,7 +6,6 @@ import html
 OUT = Path("info-card.svg")
 STATIC = os.getenv("STATIC") == "1"
 
-
 ROWS = [
     ("Now", "CSE • Full-stack developer in progress"),
     ("Prev", "HTML • CSS • JavaScript • React"),
@@ -32,7 +31,7 @@ def main() -> None:
         parts.append(
             f'<g {anim_attr}>'
             f'<text x="28" y="{y}" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" '
-            f'font-size="15" fill="#58a6ff">{html.escape(key):&lt;}</text>'
+            f'font-size="15" fill="#58a6ff">{html.escape(key)}</text>'
             f'<text x="118" y="{y}" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" '
             f'font-size="14" fill="#c9d1d9">{html.escape(value)}</text>'
             f'<line x1="28" y1="{y+12}" x2="462" y2="{y+12}" stroke="#21262d"/>'
