@@ -16,7 +16,7 @@ OUT = Path("data/contributions.json")
 
 
 def parse_count(text: str) -> int:
-    match = re.search(r"(\\d[\\d,]*)", text.replace("\\xa0", " "))
+    match = re.search(r"(\d[\d,]*)", text.replace("\xa0", " "))
     return int(match.group(1).replace(",", "")) if match else 0
 
 
@@ -29,7 +29,10 @@ def main() -> None:
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
-    cells = soup.select("[data-date][data-level]")
+    cells = soup.select(".ContributionCalendar-day[data-date][data-level]")
+
+    if not cells:
+        cells = soup.select("[data-date][data-level]")
 
     if not cells:
         raise RuntimeError("GitHub contribution cells were not found.")
@@ -47,7 +50,13 @@ def main() -> None:
         except ValueError:
             continue
 
-        label = cell.get("aria-label", "")
+        # GitHub has used both a title attribute and <tool-tip> markup.
+        label = cell.get("title", "") or cell.get("aria-label", "")
+        if not label:
+            tooltip = cell.find("tool-tip")
+            if tooltip:
+                label = tooltip.get_text(" ", strip=True)
+
         days.append({
             "date": day.isoformat(),
             "count": parse_count(label),
@@ -56,7 +65,6 @@ def main() -> None:
 
     days.sort(key=lambda x: x["date"])
 
-    # Remove accidental duplicates while preserving the latest parsed value.
     unique = {}
     for item in days:
         unique[item["date"]] = item
@@ -65,17 +73,15 @@ def main() -> None:
     contribution_days = [d for d in days if d["count"] > 0]
 
     current_streak = 0
-    cursor = date.today()
     by_date = {date.fromisoformat(d["date"]): d["count"] for d in days}
 
-    # A contribution graph can lag the current day. Start from the newest
-    # available day instead of assuming today's cell exists.
     if by_date:
         cursor = min(max(by_date), date.today())
-
-    while by_date.get(cursor, 0) > 0:
-        current_streak += 1
-        cursor -= timedelta(days=1)
+        while by_date.get(cursor, 0) == 0 and cursor > min(by_date):
+            cursor -= timedelta(days=1)
+        while by_date.get(cursor, 0) > 0:
+            current_streak += 1
+            cursor -= timedelta(days=1)
 
     longest_streak = 0
     running = 0
