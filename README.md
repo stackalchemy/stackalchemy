@@ -1,8 +1,29 @@
 
 <div align="center">
 
-  <h1>Rishabh Madaan</h1>
-  <h3>Aspiring Software Engineer | Java Backend Developer</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776A8&height=220&section=header&text=Rishabh%20Madaan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%26%20Backend%20Engineering&descSize=17&descAlignY=58&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776A8&height=220&section=header&text=Rishabh%20Madaan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%26%20Backend%20Engineering&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+  </picture>
+
+  <p>
+    <b>Building reliable software. Solving real-world problems.</b>
+  </p>
+
+  <p>
+    📍 Haryana, India &nbsp;|&nbsp; 🎓 CSE Undergraduate '27
+  </p>
+
+  <p>
+    <a href="https://github.com/stackalchemy">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://x.com/RishabhMad91272">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+  </p>
+
+</div>
 
   <p>
     Building backend systems, exploring distributed technologies,
