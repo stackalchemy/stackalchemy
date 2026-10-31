@@ -2,11 +2,9 @@
 
 <div align="center">
 
- <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Rishabh%20Madaan&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%26%20BACKEND%20ENGINEERING&descSize=16&descAlignY=58"
-    width="100%"
-    alt="Rishabh Madaan"
-  />
+  <h1>
+    RISHABH MAADAAN
+  </h1>
 
 <h3>Building reliable software. Solving real-world problems.</h3>
 
