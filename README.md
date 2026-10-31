@@ -1,168 +1,113 @@
 <div align="center">
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&mode=dark" width="100%" alt="Rishabh Madaan — profile" />
+  </picture>
 
-<!-- Animated Living Identity Banner -->
-<!---->
+<h1>Rishabh Madaan</h1>
+<p><strong>Full-stack engineer</strong></p>
+<p>Building useful things with Java and shipping in public.</p>
+<p><sub>Based in karnal</sub></p>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>58</strong><br /><sub>Contributions</sub></td>
+</tr>
+</table>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+stackalchemy+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=stackalchemy&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
-<img src="https://img.shields.io/github/followers/stackalchemy?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/stackalchemy?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
-
+<p><a href="https://github.com/stackalchemy">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/RishabhMad91272">X</a></p>
 </div>
 
----
+<h2>Building in public</h2>
 
-## 🐱 About Me
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+<p>Building useful things with Java and shipping in public.</p>
+<p><strong>Focus:</strong> Java · CSS · Python . SpringBoot</p>
+<p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
+</td>
+<td width="38%" valign="top">
+<img src="https://www.gitskins.com/api/section/portrait?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&color=1&v=showcase-portrait-1" width="100%" alt="Rishabh Madaan animated colored ASCII portrait" />
+</td>
+</tr>
+</table>
 
-<div align="center">
+<h2>What I’m shipping</h2>
 
-<!---->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&items=JavaScript%3A%3A7%20public%20repositories%7Cportfolio-project%3A%3AFeatured%20project%7CImpact%3A%3A1%20stars%20%C2%B7%2010%20active%20days" width="100%" alt="Highlights" />
+</p>
 
-</div>
+<h2>Featured work</h2>
 
-## ⚔️ `> cat inventory.txt` — Skill Tree
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<img src="https://www.gitskins.com/api/section/projects?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4" width="100%" alt="Featured projects" />
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/stackalchemy/portfolio-project"><strong>portfolio-project</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>HTML · ⭐ 0 stars · 0 forks</sub></p>
+<p><a href="https://github.com/stackalchemy/portfolio-project">View project →</a></p>
+</td>
+</tr>
+</table>
 
-<div align="center">
+<h2>Selected work</h2>
 
-**🧠 Languages**
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/stackalchemy/portfolio-project"><strong>portfolio-project</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>HTML · ⭐ 0</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/stackalchemy/to-do-list"><strong>to-do-list</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>JavaScript · ⭐ 0</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/stackalchemy/stackalchemy"><strong>stackalchemy</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>Python · ⭐ 0</sub></p>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
+<h2>Signal</h2>
 
-**🌐 Frameworks & Libraries**
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4" width="100%" alt="1 stars across 7 repositories" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
+<h2>Stack</h2>
 
-<em>✏️ The tools you reach for, in a sentence.</em>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4" width="100%" alt="Language stack" />
+</p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<h2>Activity</h2>
 
-**🗄️ Databases & DevOps**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&mode=dark" width="100%" alt="58 contributions in the last year" />
+  </picture>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
+<hr />
 
-**🧩 DSA & Problem Solving**
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/stackalchemy">GitHub</a><br /><a href="https://x.com/RishabhMad91272">X</a></td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-</div>
-
----
-
-## 📊 `> ./stats --player=stackalchemy`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stackalchemy&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stackalchemy&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
-
-<img src="https://streak-stats.demolab.com?user=stackalchemy&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
-
-</div>
-
----
-
-## 🏆 `> unlock --achievements`
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=stackalchemy&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
-## 📈 `> tail -f /var/log/commits.log`
-
-<div align="center">
-
-<!---->
-
-</div>
-
----
-
-## 🐍 `> ./snake.exe --eat=contributions`
-
-<div align="center">
-
-<!---->
-
-</div>
-
----
-
-## 🎯 `> cat current_quests.log`
-
-```diff
-+ [ACTIVE]    🚀 Building: Data Science & ML Projects
-+ [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
-+ [ACTIVE]    💻 Grinding: DSA & Competitive Programming
-! [PENDING]   📊 Goal: Publish research in Data Science
-! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
-- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
-```
-
-<div align="center">
-
-| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
-|:--|:--|:--|
-| 🐍 Python | `████████░░` | **80%** |
-| 📊 Data Science | `███████░░░` | **70%** |
-| 🧠 AI / ML | `██████░░░░` | **60%** |
-| ⚛️ React | `██████░░░░` | **60%** |
-| 🏗️ DSA | `███████░░░` | **70%** |
-| ☕ Caffeine | `██████████` | **MAX** |
-
-</div>
-
----
-
-## 🎧 `> now_playing --mode=focus`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
-
-</div>
-
----
-
-## 📡 `> ping --connect`
-
-<div align="center">
-
-<a href="https://github.com/stackalchemy"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
-<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
-
-<br/><br/>
-
-```bash
-$ echo "There is no spoon. Only data." | lolcat
-$ python3 -c "print('Hello, World! 🧠')"
-$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
-
-</div>
-
-<!-- badge-auto: badge-pr-1 pr1 -->
-
-<p align="center"><sub>Rishabh Madaan · <a href="https://www.gitskins.com/readme-generator?template=community-night-shift-zckz">Night Shift</a> template by <a href="https://www.gitskins.com/creators/Avijit010325">@Avijit010325</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Rishabh Madaan · live profile data, designed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
