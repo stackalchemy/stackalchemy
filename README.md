@@ -1,26 +1,26 @@
 
+
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Rishabh%20Madaan&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%26%20BACKEND%20ENGINEERING&descSize=16&descAlignY=55&animation=fadeIn"
-    width="100%"
-    alt="Rishabh Madaan - Software Developer"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Rishabh%20Madaan&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%26%20BACKEND%20ENGINEERING&descSize=16&descAlign=50&descAlignY=58" width="100%" alt="Rishabh Madaan - Software Developer" />
 
-  <h3>Building reliable software. Solving real-world problems.</h3>
+<h3>Building reliable software. Solving real-world problems.</h3>
 
-  <p>
-    🎓 CSE Undergraduate '27 &nbsp; | &nbsp; 📍 Haryana, India
-  </p>
+<p>🎓 CSE Undergraduate '27 &nbsp; | &nbsp; 📍 Haryana, India</p>
 
-  <p>
-    <a href="https://github.com/stackalchemy">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://x.com/RishabhMad91272">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-  </p>
+<p>
+<a href="https://github.com/stackalchemy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://x.com/RishabhMad91272">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+</p>
+
+<p><i>Java • Spring Boot • Backend Engineering • System Design</i></p>
+
+</div>
+
 
   <br/>
 
