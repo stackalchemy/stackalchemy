@@ -1,113 +1,143 @@
+
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&mode=dark" width="100%" alt="Rishabh Madaan — profile" />
-  </picture>
 
-<h1>Rishabh Madaan</h1>
-<p><strong>Full-stack engineer</strong></p>
-<p>Building useful things with Java and shipping in public.</p>
-<p><sub>Based in karnal</sub></p>
+  <h1>Rishabh Madaan</h1>
+  <h3>Aspiring Software Engineer | Java Backend Developer</h3>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>58</strong><br /><sub>Contributions</sub></td>
-</tr>
-</table>
+  <p>
+    Building backend systems, exploring distributed technologies,
+    and turning ideas into working software.
+  </p>
 
-<p><a href="https://github.com/stackalchemy">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/RishabhMad91272">X</a></p>
+  <p>📍 Haryana, India</p>
+
+  <a href="https://github.com/stackalchemy">GitHub</a> ·
+  <a href="https://x.com/RishabhMad91272">X</a>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff" width="100%" />
+
 </div>
 
-<h2>Building in public</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-<p>Building useful things with Java and shipping in public.</p>
-<p><strong>Focus:</strong> Java · CSS · Python . SpringBoot</p>
-<p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
-</td>
-<td width="38%" valign="top">
-<img src="https://www.gitskins.com/api/section/portrait?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&color=1&v=showcase-portrait-1" width="100%" alt="Rishabh Madaan animated colored ASCII portrait" />
-</td>
-</tr>
-</table>
+## 👨‍💻 About Me
 
-<h2>What I’m shipping</h2>
+I'm a Computer Science and Engineering student passionate about software engineering, backend development, and building practical technology solutions.
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&items=JavaScript%3A%3A7%20public%20repositories%7Cportfolio-project%3A%3AFeatured%20project%7CImpact%3A%3A1%20stars%20%C2%B7%2010%20active%20days" width="100%" alt="Highlights" />
+- 🎓 B.Tech in Computer Science & Engineering | 2027
+- ☕ Focused on Java and Spring Boot
+- 🔧 Exploring REST APIs, Hibernate, Maven and backend architecture
+- 🗄️ Learning database design, SQL and transaction management
+- 🌐 Familiar with React, JavaScript, HTML and CSS
+- 🚀 Currently building **OfflinePay**
+- 📚 Interested in distributed systems, cloud computing and system design
+
+---
+
+## 🚀 Featured Project
+
+### 💳 OfflinePay — Offline Payment Simulation
+
+An advanced academic project exploring how nearby devices can exchange simulated payments without an active internet connection.
+
+**Tech Stack:** Java · Spring Boot · React · Android · QR Codes · MySQL
+
+**Key Features & Objectives**
+- QR-code-based payment initiation
+- Local device-to-device communication
+- Transaction validation and tracking
+- Secure transaction simulation
+- Synchronization concepts when connectivity returns
+
+> Note: OfflinePay is an academic prototype. It does not perform actual UPI or bank settlement.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
 </p>
 
-<h2>Featured work</h2>
+### Backend Development
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<img src="https://www.gitskins.com/api/section/projects?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4" width="100%" alt="Featured projects" />
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/stackalchemy/portfolio-project"><strong>portfolio-project</strong></a></h3>
-<p>A project built and shared in public.</p>
-<p><sub>HTML · ⭐ 0 stars · 0 forks</sub></p>
-<p><a href="https://github.com/stackalchemy/portfolio-project">View project →</a></p>
-</td>
-</tr>
-</table>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/stackalchemy/portfolio-project"><strong>portfolio-project</strong></a></h3>
-<p>A project built and shared in public.</p>
-<p><sub>HTML · ⭐ 0</sub></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/stackalchemy/to-do-list"><strong>to-do-list</strong></a></h3>
-<p>A project built and shared in public.</p>
-<p><sub>JavaScript · ⭐ 0</sub></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/stackalchemy/stackalchemy"><strong>stackalchemy</strong></a></h3>
-<p>A project built and shared in public.</p>
-<p><sub>Python · ⭐ 0</sub></p>
-</td>
-</tr>
-</table>
-
-<h2>Signal</h2>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4" width="100%" alt="1 stars across 7 repositories" />
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
 </p>
 
-<h2>Stack</h2>
+### Frontend Development
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4" width="100%" alt="Language stack" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-<h2>Activity</h2>
+### Database & Tools
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=stackalchemy&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4&mode=dark" width="100%" alt="58 contributions in the last year" />
-  </picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,idea,eclipse,linux" />
 </p>
 
-<hr />
+---
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/stackalchemy">GitHub</a><br /><a href="https://x.com/RishabhMad91272">X</a></td>
-</tr>
-</table>
+## 📚 Currently Learning
 
-<p align="center"><sub>Rishabh Madaan · live profile data, designed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+- Advanced Java and Collections Framework
+- Spring Boot and REST API development
+- Hibernate and JPA
+- Database Management Systems
+- Data Structures and Algorithms
+- System Design and Distributed Systems
+- Docker, Linux and Cloud Computing
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=stackalchemy&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackalchemy&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=stackalchemy&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stackalchemy&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on meaningful software projects, exploring new technologies, and connecting with developers who enjoy building things.
+
+<p align="center">
+  <a href="https://github.com/stackalchemy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/RishabhMad91272">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Learn continuously. Build consistently. Engineer thoughtfully.
+
+</div>
