@@ -12,12 +12,6 @@
 
 <p>🎓 CSE Undergraduate '27 &nbsp; | &nbsp; 📍 Haryana, India</p>
 
-<p>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://x.com/RishabhMad91272">
-</a>
-</p>
 
 <p><i>Java • Spring Boot • Backend Engineering • System Design</i></p>
 
@@ -29,12 +23,6 @@
 
 
 </div>
-    <b>Building reliable software. Solving real-world problems.</b>
-  </p>
-
-  <p>
-    📍 Haryana, India &nbsp;|&nbsp; 🎓 CSE Undergraduate '27
-  </p>
 
   <p>
     <a href="https://github.com/stackalchemy">
@@ -45,16 +33,7 @@
     </a>
   </p>
 
-</div>
 
-
-
-  <a href="https://github.com/stackalchemy">GitHub</a> ·
-  <a href="https://x.com/RishabhMad91272">X</a>
-
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff" width="100%" />
 
 </div>
 
