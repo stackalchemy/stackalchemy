@@ -1,10 +1,9 @@
 
 
-<div align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Rishabh Madaan</h1>
 
-  <p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=stackalchemy&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F211643679%3Fv%3D4" alt="stackalchemy galaxy visual" />
-</p>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <p align="center"><b>7</b> public repositories, <b>1</b> stars, <b>58</b> contributions in the last year, a longest streak of <b>4</b> days and <b>2</b> followers.</p>
 
