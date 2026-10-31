@@ -39,36 +39,41 @@
 
 ---
 
+<h2 align="center">👨‍💻 About Me</h2>
 
-<h2>👨‍💻 About Me</h2>
-
-<p>
-I'm a Computer Science and Engineering undergraduate with a strong interest in 
-<strong>Software Engineering, Java Backend Development, and Cloud Technologies</strong>.
-I enjoy designing and developing backend applications, building RESTful APIs, 
-and understanding how modern software systems work behind the scenes.
+<p align="center">
+  I'm a Computer Science & Engineering undergraduate passionate about
+  <strong>Software Engineering, Java Backend Development, and Cloud Technologies.</strong>
+  I enjoy building backend applications, designing RESTful APIs, and solving real-world engineering problems.
 </p>
 
-<p>
-My technical focus includes <strong>Java, Spring, Spring Boot, Hibernate, REST APIs, 
-SQL, and DevOps fundamentals</strong>. I'm also familiar with frontend technologies 
-like React and JavaScript, which helps me understand and work across the application stack.
+<p align="center">
+  My primary stack includes <strong>Java, Spring Boot, Hibernate, JPA, SQL, and DevOps tools.</strong>
+  I also work with React and JavaScript, giving me a broader understanding of full-stack application development.
 </p>
 
-<p>
-I believe in writing clean, maintainable code, understanding problems at their core, 
-and building solutions that are practical, reliable, and scalable.
+<p align="center">
+  I value clean code, solid engineering fundamentals, and building software that is reliable, maintainable, and scalable.
 </p>
+
+---
 
 <ul>
   <li>💻 <strong>Backend:</strong> Java, Spring Framework, Spring Boot, Hibernate, JPA, REST APIs</li>
   <li>🗄️ <strong>Databases:</strong> MySQL, SQL, Database Design, Transaction Management</li>
-  <li>⚙️ <strong>DevOps & Tools:</strong> Git, GitHub, Linux, Maven, Docker, CI/CD Fundamentals</li>
+  <li>⚙️ <strong>DevOps & Tools:</strong> Git, GitHub, Linux, Maven, Docker, CI/CD</li>
   <li>🌐 <strong>Frontend:</strong> React, JavaScript, HTML, CSS</li>
-  <li>🏗️ <strong>Engineering Interests:</strong> System Design, Distributed Systems, Microservices, Cloud Computing</li>
-  <li>🚀 <strong>Currently Building:</strong> OfflinePay — a QR-code-based offline payment simulation</li>
-  <li>🎯 <strong>Career Goal:</strong> Contributing to engineering teams by building reliable, maintainable, and scalable software systems.</li>
+  <li>🎯 <strong>Current Focus:</strong> Designing scalable backend architectures, understanding distributed systems, implementing microservices, and exploring cloud-native development.</li>
+  <li>🚀 <strong>Currently Building:</strong> OfflinePay — a QR-code-based offline payment simulation.</li>
+  <li>🎓 <strong>Education:</strong> B.Tech in Computer Science & Engineering | 2027</li>
 </ul>
+
+---
+
+<p align="center">
+  <i>Driven by curiosity, engineering discipline, and the desire to build software that makes a difference.</i>
+</p>
+
 
 
 ---
