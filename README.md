@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1>
-    RISHABH MAADAAN
+    RISHABH MADAAN
   </h1>
 
 <h3>Building reliable software. Solving real-world problems.</h3>
