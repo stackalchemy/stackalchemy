@@ -120,14 +120,9 @@ An advanced academic project exploring how nearby devices can exchange simulated
 ### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,idea,eclipse,linux" />
-</p>
-
----
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,idea,eclipse,linux" 
 
 
-<li>🏗️ <strong>Core Engineering Domains:</strong> System Design, Distributed Systems, Microservices, Cloud Computing, Backend Architecture</li>
----
 
 ## 📊 GitHub Statistics
 
