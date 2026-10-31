@@ -140,16 +140,6 @@ An advanced academic project exploring how nearby devices can exchange simulated
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stackalchemy&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in collaborating on meaningful software projects, exploring new technologies, and connecting with developers who enjoy building things.
