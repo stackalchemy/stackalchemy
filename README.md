@@ -5,7 +5,7 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-<p align="center"><b>7</b> public repositories, <b>1</b> stars, <b>58</b> contributions in the last year, a longest streak of <b>4</b> days and <b>2</b> followers.</p>
+
 
 
 <h3>Building reliable software. Solving real-world problems.</h3>
