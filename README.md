@@ -39,17 +39,37 @@
 
 ---
 
-## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student passionate about software engineering, backend development, and building practical technology solutions.
+<h2>👨‍💻 About Me</h2>
 
-- 🎓 B.Tech in Computer Science & Engineering | 2027
-- ☕ Focused on Java and Spring Boot
-- 🔧 Exploring REST APIs, Hibernate, Maven and backend architecture
-- 🗄️ Learning database design, SQL and transaction management
-- 🌐 Familiar with React, JavaScript, HTML and CSS
-- 🚀 Currently building **OfflinePay**
-- 📚 Interested in distributed systems, cloud computing and system design
+<p>
+I'm a Computer Science and Engineering undergraduate with a strong interest in 
+<strong>Software Engineering, Java Backend Development, and Cloud Technologies</strong>.
+I enjoy designing and developing backend applications, building RESTful APIs, 
+and understanding how modern software systems work behind the scenes.
+</p>
+
+<p>
+My technical focus includes <strong>Java, Spring, Spring Boot, Hibernate, REST APIs, 
+SQL, and DevOps fundamentals</strong>. I'm also familiar with frontend technologies 
+like React and JavaScript, which helps me understand and work across the application stack.
+</p>
+
+<p>
+I believe in writing clean, maintainable code, understanding problems at their core, 
+and building solutions that are practical, reliable, and scalable.
+</p>
+
+<ul>
+  <li>💻 <strong>Backend:</strong> Java, Spring Framework, Spring Boot, Hibernate, JPA, REST APIs</li>
+  <li>🗄️ <strong>Databases:</strong> MySQL, SQL, Database Design, Transaction Management</li>
+  <li>⚙️ <strong>DevOps & Tools:</strong> Git, GitHub, Linux, Maven, Docker, CI/CD Fundamentals</li>
+  <li>🌐 <strong>Frontend:</strong> React, JavaScript, HTML, CSS</li>
+  <li>🏗️ <strong>Engineering Interests:</strong> System Design, Distributed Systems, Microservices, Cloud Computing</li>
+  <li>🚀 <strong>Currently Building:</strong> OfflinePay — a QR-code-based offline payment simulation</li>
+  <li>🎯 <strong>Career Goal:</strong> Contributing to engineering teams by building reliable, maintainable, and scalable software systems.</li>
+</ul>
+
 
 ---
 
@@ -100,16 +120,8 @@ An advanced academic project exploring how nearby devices can exchange simulated
 
 ---
 
-## 📚 Currently Learning
 
-- Advanced Java and Collections Framework
-- Spring Boot and REST API development
-- Hibernate and JPA
-- Database Management Systems
-- Data Structures and Algorithms
-- System Design and Distributed Systems
-- Docker, Linux and Cloud Computing
-
+<li>🏗️ <strong>Core Engineering Domains:</strong> System Design, Distributed Systems, Microservices, Cloud Computing, Backend Architecture</li>
 ---
 
 ## 📊 GitHub Statistics
