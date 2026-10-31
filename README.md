@@ -122,7 +122,7 @@ An advanced academic project exploring how nearby devices can exchange simulated
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,idea,eclipse,linux" 
 
-
+<br>
 
 ## 📊 GitHub Statistics
 
