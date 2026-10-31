@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Rishabh%20Madaan&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%26%20BACKEND%20ENGINEERING&descSize=16&descAlign=50&descAlignY=58" width="100%" alt="Rishabh Madaan - Software Developer" />
+ <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Rishabh%20Madaan&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%26%20BACKEND%20ENGINEERING&descSize=16&descAlignY=58"
+    width="100%"
+    alt="Rishabh Madaan"
+  />
 
 <h3>Building reliable software. Solving real-world problems.</h3>
 
@@ -24,9 +28,7 @@
 
   <br/>
 
-  <p>
-    <i>Java • Spring Boot • Backend Engineering • System Design</i>
-  </p>
+
 
 </div>
     <b>Building reliable software. Solving real-world problems.</b>
@@ -47,12 +49,7 @@
 
 </div>
 
-  <p>
-    Building backend systems, exploring distributed technologies,
-    and turning ideas into working software.
-  </p>
 
-  <p>📍 Haryana, India</p>
 
   <a href="https://github.com/stackalchemy">GitHub</a> ·
   <a href="https://x.com/RishabhMad91272">X</a>
